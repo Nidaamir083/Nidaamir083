@@ -1,7 +1,7 @@
 <!-- =======================  NIDA AMIR — FUTURISTIC AI RESEARCH PORTFOLIO ======================= -->
 
 <p align="center">
-  <img src="BANNER_LINK_HERE" width="100%" alt="Nida Amir — Generative AI Researcher">
+  <img src="https://raw.githubusercontent.com/Nidaamir083/Nidaamir083/main/flowchart_circuit.png.png" width="100%" alt="Nida Amir — Generative AI Researcher">
 </p>
 
 <h1 align="center">🧬 Nida Amir — Generative AI Researcher</h1>
@@ -13,7 +13,7 @@
 
 ## 🌌 Vision  
 **I am a Generative AI Researcher passionate about building intelligent systems that reason, create, adapt, and accelerate scientific discovery.**  
-My work is fueled by curiosity for:
+My work revolves around:
 
 - ✦ Generative AI & Large Language Models  
 - ✦ AI for Healthcare & Drug Repurposing  
@@ -21,8 +21,8 @@ My work is fueled by curiosity for:
 - ✦ Ethical & Human-centered AI  
 - ✦ Scientific ML for sustainability & space exploration  
 
-I believe that AI should not only solve problems —  
-**it should expand human potential.**
+AI should not only solve problems —  
+**it should expand human capability.**
 
 ---
 
@@ -30,10 +30,10 @@ I believe that AI should not only solve problems —
 
 ### 🔭 **Current Focus Areas**
 - LLMs for *automated scientific reasoning*  
-- Agentic AI systems that orchestrate complex workflows  
-- Retrieval-Augmented Generation (RAG) in mission-critical environments  
+- Agentic AI systems that orchestrate complex pipelines  
+- Retrieval-Augmented Generation (RAG)  
 - AI-driven drug repurposing (Hetionet × TCGA × PubMed)  
-- Computer vision for scientific & environmental observation  
+- Computer vision for scientific & environmental research  
 
 ### 🧪 **Research Philosophy**  
 Creating AI that is:  
@@ -43,45 +43,36 @@ Creating AI that is:
 
 ## 🧠 Technical Stack
 
-### 🧩 Languages & Libraries  
-`Python` • `NumPy` • `Pandas` • `Scikit-Learn` • `TensorFlow / Keras` • `OpenCV` • `Matplotlib` • `Seaborn`
-
-### 🤖 AI & ML  
-`LLMs` • `RAG` • `Neural Networks` • `CNN` • `RNN` • `YOLO` • `Generative AI`
-
-### 🔌 Tools & Platforms  
-`LangChain` • `Hugging Face` • `Neo4j` • `Streamlit` • `Power BI` • `Tableau` • `VS Code` • `Jupyter` • `Colab`
+### 🧩 Languages, Tools & Libraries  
+`Python` • `SQL` • `Pandas` • `NumPy` • `Scikit-Learn` • `TensorFlow` • `Keras` • `PyTorch`  
+`LLMs` • `RAG` • `NLP` • `Neo4j` • `Chatbots` • `App Deployment`  
+**`LeetCode` (Problem-Solving)**  
 
 ---
 
 ## 🚀 Flagship Projects
 
 ### 🛰 NASA Space Apps Challenge 2025 — *Window Weightless*  
-A futuristic simulation platform redefining astronaut sensory experiences aboard the ISS.  
+A futuristic simulation platform redefining astronaut sensory experience aboard the ISS.  
 **Stack:** React.js, Tailwind, Three.js, Node.js, MongoDB, LLMs  
-**Features:** AI narration, live NASA data, 360° ISS visualizations, voice interaction.
+**Features:** AI narration, NASA data, 360° ISS views, voice interaction.
 
 ---
 
 ### 💳 Loan Pilot — *2nd Place, Generative AI Hackathon 2025*  
-An AI-powered SME loan assistant that validates documents, screens eligibility, and generates compliant applications.  
-**Impact:** Outperformed teams nationwide; recognized for workflow accuracy & user experience.
-
----
-
-### 😊 FER 2013 — *Facial Expression Recognition (CNN)*  
-Built a deep-learning model using CNNs + OpenCV for emotion classification with high accuracy.
+AI assistant that validates documents, checks eligibility, and generates compliant applications.  
+**Recognized for:** workflow accuracy, model reliability, and user experience.
 
 ---
 
 ### 🧬 Generative AI for Drug Repurposing (ATC)  
-Created an AI pipeline integrating Hetionet, TCGA, PubMed, and RAG to generate drug hypotheses for thyroid cancer.  
-**Outcome:** Deployed as an interactive research app on Streamlit.
+Integrated Hetionet + TCGA + PubMed + RAG to generate drug hypotheses for thyroid cancer.  
+**Result:** Deployed as a Streamlit research application.
 
 ---
 
 ### 🌳 Satellite Tree Health Monitoring  
-Analyzed urban tree canopy health using multispectral data to support environmental planning.
+Analyzed multispectral environmental data to evaluate urban tree health.
 
 ---
 
@@ -94,8 +85,8 @@ Analyzed urban tree canopy health using multispectral data to support environmen
 ---
 
 ## 🏆 Achievements & Recognition
-- 🥈 **2nd Position** — Generative AI Hackathon 2025 (Loan Pilot)  
-- 🚀 **NASA Space Apps Challenge 2025** Participant  
+- 🥈 **2nd Position** — Generative AI Hackathon 2025  
+- 🚀 **NASA Space Apps Challenge 2025**  
 - 🎓 **Top Performer** — Generative AI Developer Program  
 - 📊 PwC Switzerland BI Simulation  
 - 📈 BCG Data Science Simulation  
@@ -104,36 +95,51 @@ Analyzed urban tree canopy health using multispectral data to support environmen
 
 ---
 
-## 🛰 What Drives Me  
-I work at the intersection of **AI, science, creativity, and impact**.  
-My mission is to build intelligent systems that:
-
-- reason logically  
-- create meaningfully  
-- assist humans ethically  
-- solve real scientific + societal problems  
-
----
-
-## 📚 Education
-🎓 **Post Graduate Diploma — Data Science & AI**  
-NED Academy • CGPA: 3.5  
-
-🎓 Masters in Home Economics — University of Karachi  
-
----
-
-## 🔗 Connect with Me
+## 💡 Technical Skills Flowchart (Neon Circuit-Board Version)
 
 <p align="center">
-  <a href="mailto:nida.amir0083@gmail.com"><img src="https://img.shields.io/badge/Email-Write%20to%20me-red?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/nida-amir-3770922bb"><img src="https://img.shields.io/badge/LinkedIn-Nida%20Amir-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/Nidaamir083"><img src="https://img.shields.io/badge/GitHub-Nidaamir083-black?style=for-the-badge&logo=github"></a>
+  <img src="https://raw.githubusercontent.com/Nidaamir083/Nidaamir083/main/data-science-skills-flowchart.png" 
+       width="95%" 
+       alt="Nida Amir — Technical Flowchart">
 </p>
 
 ---
 
-## 🌌 Final Thought  
-> *“AI is not just a tool — it is a collaborator in humanity’s next chapter.”*
+## 💡 Technical Skills Flowchart (Mermaid Version)
+
+```mermaid
+flowchart LR
+    A["Data Science"] --> B["Programming"]
+    B --> B1["Python"]
+    B --> B2["SQL"]
+
+    A --> C["Libraries"]
+    C --> C1["Pandas"]
+    C --> C2["NumPy"]
+    C --> C3["Scikit-Learn"]
+    C --> C4["TensorFlow"]
+    C --> C5["Keras"]
+    C --> C6["PyTorch"]
+
+    A --> D["AI & ML"]
+    D --> D1["Deep Learning (DL)"]
+    D --> D2["CNN"]
+    D --> D3["RNN"]
+    D --> D4["ANN"]
+    D --> D5["YOLO"]
+    D --> D6["Neo4j"]
+    D --> D7["Chatbots"]
+    D --> D8["App Deployment"]
+
+    A --> E["LLMs"]
+    E --> E1["NLP"]
+    E --> E2["GPT-3"]
+    E --> E3["GPT-4"]
+    E --> E4["Mistral"]
+    E --> E5["Hugging Face"]
+    E --> E6["Groq"]
+    E --> E7["Gemini"]
+
+
 
 
